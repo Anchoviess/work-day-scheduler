@@ -1,5 +1,11 @@
-This is my repository for the work schedule challenge; ive attached a link to my website below:
+## Purpose
+The purpose of this application is to be able to take not of tasks throughout the work day, the user is able to see tasks that need completion throughout the work day.
 
+## Built With
+
+- HTML
+- CSS
+- JavaScript
 **// WEBSITE//**
 
 https://anchoviess.github.io/work-day-scheduler/
